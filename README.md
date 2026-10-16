@@ -1,4 +1,4 @@
-# TravelBud - AI Travel Planner
+# TravelBud - AI Travel Assistant
 
 **Tagline:** Plan Smarter, Travel Better
 
