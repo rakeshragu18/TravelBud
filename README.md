@@ -1,45 +1,88 @@
-# TravelBud
-AI-powered travel platform | Product Management capstone
+# TravelBud - AI Travel Planner
 
-**Overview:**
-TravelBud is an AI-powered travel platform concept designed to simplify trip planning by bringing travel research, flight and hotel comparisons and itinerary management into one experience.
+**Tagline:** Plan Smarter, Travel Better
 
-**Problem Statement:**
-Travelers often need to switch between multiple platforms to compare prices, organize itineraries, manage booking changes and find reliable customer support.
+**Project type:** Product Management Capstone  
+**Focus:** Generative AI, Agentic AI, Travel Technology
 
-**Product Vision:**
-Create a more seamless, personalized travel-planning experience with AI-assisted recommendations and itinerary management.
+## 1. Product Overview
 
-**Key Product Areas:**
+TravelBud is an AI-powered travel-planning product concept designed to bring trip research, flight and hotel comparisons, itinerary planning and travel assistance into one streamlined experience.
 
-Trip planning and itinerary management
+The goal is to reduce the complexity of planning a trip across multiple platforms and help travelers make more informed decisions.
 
-Flight and hotel comparison
+## 2. Problem Statement
 
-Price transparency
+Travelers often face fragmented planning experiences, fluctuating prices, limited pricing transparency, difficulties managing booking changes and inconsistent customer support.
 
-Booking-change support concepts
+TravelBud explores how an integrated, AI-assisted experience could address these pain points.
 
-AI-powered travel assistance
+## 3. Target Users
+
+- Independent leisure travelers
+- Budget-conscious travelers
+- Travelers planning multi-day trips
+- Users seeking personalized travel recommendations
+
+## 4. Proposed Solution
+
+- AI-assisted trip planning
+- Flight and hotel comparison
+- Personalized itinerary suggestions
+- Budget-aware recommendations
+- Trust and risk insights
+- Travel support and booking-change assistance concepts
+
+## 5. Product Management Approach
+
+- Customer review and pain-point analysis
+- Competitor analysis
+- Customer segmentation and personas
+- Value Proposition Canvas and Lean Canvas
+- Product vision and positioning
+- Product Requirements Document (PRD)
+- MVP definition and MoSCoW prioritization
+- User flows and prototype design
+- Proposed success metrics and validation approach
+
+## 6. AI and Agentic AI Concept
+
+The product concept explores specialized AI agents for research, itinerary planning, budget optimization, trust and risk assessment, booking assistance and customer support.
+
+These capabilities are proposed design concepts unless explicitly demonstrated in the prototype.
+
+## 7. MVP Scope
+
+The proposed MVP focuses on trip inputs, travel research, flight and hotel comparisons and itinerary suggestions. Additional capabilities can be prioritized based on user feedback, feasibility and validation results.
+
+## 8. Success Metrics
+
+Potential metrics to validate include:
+
+- Time required to create an itinerary
+- Trip-planning task completion rate
+- User satisfaction
+- Recommendation relevance
+- Conversion from planning to booking
+- Customer support resolution rate
+
+These are proposed metrics, not measured results.
+
+## 9. Project Deliverables
+
+- Product strategy and positioning
+- Customer and competitor research
+- Lean Canvas and Value Proposition Canvas
+- Product requirements and MVP scope
+- Feature prioritization
+- User flows and prototype screens
+- AI agent concepts
+
+## 10. Project Status and Limitations
+
+This is a Product Management capstone showcasing product discovery, strategy, requirements, prioritization and AI-enabled product design. It is not presented as a fully deployed travel-booking application.
 
 
-**Product Management Work:**
+## 11. Product Vision
 
-Customer pain-point and review analysis
-
-Competitive analysis and product positioning
-
-User needs and value proposition
-
-MVP definition and feature prioritization
-
-Product requirements and user stories
-
-Generative AI and agentic AI use cases
-
-
-**Project Status:**
-Product Management capstone. Implementation and live integrations will be documented as they become available.
-
-Disclaimer
-TravelBud is a capstone project and is not affiliated to any provider.
+Make travel planning simpler, more transparent and more personalized through thoughtful product design and AI-assisted experiences.
