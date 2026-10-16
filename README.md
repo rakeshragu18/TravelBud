@@ -37,12 +37,9 @@ Product requirements and user stories
 
 Generative AI and agentic AI use cases
 
-Project Status:
+
+**Project Status:**
 Product Management capstone. Implementation and live integrations will be documented as they become available.
 
 Disclaimer
 TravelBud is a capstone project and is not affiliated to any provider.
-
-Author
-
-Product Management with Gen AI & Agentic AI — Capstone Project
