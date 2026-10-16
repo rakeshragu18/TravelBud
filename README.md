@@ -86,3 +86,10 @@ This is a Product Management capstone showcasing product discovery, strategy, re
 ## 11. Product Vision
 
 Make travel planning simpler, more transparent and more personalized through thoughtful product design and AI-assisted experiences.
+
+
+## Live Prototype and Source Code
+
+- **AI Travel Planner:** [Try the TravelBud prototype](https://preview--travelbud-ai-planner.lovable.app/?__lovable_sha=69b514a2)
+- **Application Source Code:** [View the Lovable GitHub repository](https://github.com/rakeshragu18/travelbud-ai-planner)
+- **Product Documentation:** See the folders in this repository for product requirements, customer research, MVP prioritization and design artifacts.
